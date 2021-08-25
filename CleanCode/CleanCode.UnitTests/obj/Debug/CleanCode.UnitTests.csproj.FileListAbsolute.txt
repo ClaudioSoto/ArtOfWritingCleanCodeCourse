@@ -5,3 +5,14 @@ C:\Projects\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.pdb
 C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csprojResolveAssemblyReference.cache
 C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.dll
 C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.pdb
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.pdb
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.pdb
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csproj.CopyComplete
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.pdb
