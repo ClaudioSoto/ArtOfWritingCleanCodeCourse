@@ -17,27 +17,41 @@ namespace CleanCode.LongParameterList
     }
 
 
+    public class ReservationQuery
+    {
+        public ReservationQuery(DateRange dateRange, User user, int locationId, LocationType locationType, int? customerId = null)
+        {
+            DateRange = dateRange;
+            User = user;
+            LocationId = locationId;
+            LocationType = locationType;
+            CustomerId = customerId;
+        }
+
+        public DateRange DateRange { get; private set; }
+        public User User { get; private set; }
+        public int LocationId { get; private set; }
+        public LocationType LocationType { get; private set; }
+        public int? CustomerId { get; private set; }
+    }
+
     public class LongParameterList
     {
-        public IEnumerable<Reservation> GetReservations(DateRange dateRange,
-           User user, int locationId,
-           LocationType locationType, int? customerId = null)
+        public IEnumerable<Reservation> GetReservations(ReservationQuery query)
         {
-            if (dateRange.DateFrom >= DateTime.Now)
+            if (query.DateRange.DateFrom >= DateTime.Now)
                 throw new ArgumentNullException("dateFrom");
-            if (dateRange.DateTo <= DateTime.Now)
+            if (query.DateRange.DateTo <= DateTime.Now)
                 throw new ArgumentNullException("dateTo");
 
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Reservation> GetUpcomingReservations(DateRange DateRange,
-            User user, int locationId,
-            LocationType locationType)
+        public IEnumerable<Reservation> GetUpcomingReservations(ReservationQuery query)
         {
-            if (DateRange.DateFrom >= DateTime.Now)
+            if (query.DateRange.DateFrom >= DateTime.Now)
                 throw new ArgumentNullException("dateFrom");
-            if (DateRange.DateTo <= DateTime.Now)
+            if (query.DateRange.DateTo <= DateTime.Now)
                 throw new ArgumentNullException("dateTo");
 
             throw new NotImplementedException();
