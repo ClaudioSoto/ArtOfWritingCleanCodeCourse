@@ -3,9 +3,18 @@ C:\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
 C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.csprojResolveAssemblyReference.cache
 C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.dll
 C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+<<<<<<< HEAD
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\bin\Debug\CleanCode.dll
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.dll
 C:\Users\claudio.sotoayala\Desktop\Misc\ArtOfWritingCleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+=======
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\bin\Debug\CleanCode.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.dll
+C:\Users\claud\Desktop\CleanCodeCourse\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+>>>>>>> 4b881988425250c3e71c376f1adf935cc284ae1a
