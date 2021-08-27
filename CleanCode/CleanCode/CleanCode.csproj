@@ -61,7 +61,7 @@
     <Compile Include="LongMethods\TableReader.cs" />
     <Compile Include="MagicNumbers\MagicNumbers.cs" />
     <Compile Include="LongParameterList\LongParameterList.cs" />
-    <Compile Include="Names\Names.cs" />
+    <Compile Include="Names\NamesExercise.cs" />
     <Compile Include="NestedConditionals\NestedConditionals.cs" />
     <Compile Include="OutputParameters\OutputParameters.cs" />
     <Compile Include="PoorMethodSignatures\PoorMethodSignatures.cs" />

@@ -9,6 +9,7 @@ namespace CleanCode.Comments
         private int _payFrecuency;
         private DbContext _dbContext;
 
+
         public Comments()
         {
             _dbContext = new DbContext();
@@ -33,6 +34,7 @@ namespace CleanCode.Comments
         {
             _dbContext.Orders.Add(order);
             _dbContext.SaveChanges();
+
         }
 
         private static void SendEmailToCustomer(Order order)
@@ -42,6 +44,8 @@ namespace CleanCode.Comments
             client.Send(message);
         }
     }
+
+
 
     public class DbContext
     {
@@ -54,7 +58,7 @@ namespace CleanCode.Comments
         }
     }
 
-    public class DbSet<T>
+    public class DbSet<T> 
     {
         public void Add(Order order)
         {
