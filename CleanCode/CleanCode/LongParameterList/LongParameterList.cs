@@ -19,6 +19,8 @@ namespace CleanCode.LongParameterList
 
     public class ReservationQuery
     {
+
+
         public ReservationQuery(DateRange dateRange, User user, int locationId, LocationType locationType, int? customerId = null)
         {
             DateRange = dateRange;
