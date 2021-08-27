@@ -49,7 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Comments\Comments.cs" />
+    <Compile Include="DuplicatedCode\AdmisionInformation.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
+    <Compile Include="DuplicatedCode\Time.cs" />
     <Compile Include="FullRefactoring\Example1.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
